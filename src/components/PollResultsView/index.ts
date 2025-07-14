@@ -1,0 +1,1 @@
+export { PollResultsView } from './PollResultsView';
